@@ -1,0 +1,7 @@
+/angular-env/.angular/
+/angular-env/node_modules/
+/react-env/node_modules/
+/vue-env/node_modules/
+/vue-env/package-lock.json
+/react-env/package-lock.json
+/angular-env/package-lock.json
